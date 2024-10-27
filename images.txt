@@ -1,1 +1,1 @@
-ghcr.io/martialbe/one-api
+yidadaa/chatgpt-next-web:v2.15.6
