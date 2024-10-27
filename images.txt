@@ -1,3 +1,1 @@
-portainer/portainer-ce:latest
-mysql:5.7.39
-redis:7.0.5
+ghcr.io/martialbe/one-api
