@@ -1,1 +1,3 @@
-jstnxu/facial-emotion-recognition:apps
+portainer/portainer-ce:latest
+mysql:5.7.39
+redis:7.0.5
