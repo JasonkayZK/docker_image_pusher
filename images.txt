@@ -1,2 +1,2 @@
-openjdk:17-jre
-openjdk:21-jre
+eclipse-temurin:21-jre
+eclipse-temurin:17-jre
