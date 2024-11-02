@@ -1,10 +1,3 @@
-istioweather/advertisement:v1
-istioweather/advertisement:v2
-istioweather/advertisement:v3
-istioweather/forecast:v1
-istioweather/forecast:v2
-istioweather/frontend:v2
-istioweather/frontend:v1
-istioweather/recommendation:v1
-istioweather/news:v1
-istioweather/news:v2
+sameersbn/gitlab:16.7.0
+redis:6.2
+sameersbn/postgresql:14-20230628
