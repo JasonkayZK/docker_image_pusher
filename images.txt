@@ -1,1 +1,1 @@
-node:14.19.0
+mcslite/mcs-lite-app:1.0.7
