@@ -1,1 +1,1 @@
-jenkins/jenkins:2.485
+mintplexlabs/anythingllm:1.3
