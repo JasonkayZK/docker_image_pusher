@@ -1,1 +1,1 @@
-soulter/astrbot:latest
+zookeeper:3.4
