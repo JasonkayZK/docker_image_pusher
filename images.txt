@@ -1,1 +1,1 @@
-zookeeper:3.4
+langgenius/dify-plugin-daemon:0.0.3-local
