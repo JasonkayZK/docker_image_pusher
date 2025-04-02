@@ -1,1 +1,1 @@
-photoprism/photoprism:latest
+linshen/prompt-optimizer:latest
