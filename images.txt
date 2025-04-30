@@ -1,1 +1,1 @@
-python:3.10-slim
+neosmemo/memos:0.9.0
