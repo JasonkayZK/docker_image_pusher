@@ -1,1 +1,1 @@
-neosmemo/memos:0.9.0
+lscr.io/linuxserver/piwigo:15.5.0
