@@ -1,1 +1,1 @@
-eclipse-mosquitto
+k8s.gcr.io/echoserver:1.4
