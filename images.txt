@@ -1,1 +1,1 @@
-cilium/echoserver:1.10.3
+docker.n8n.io/n8nio/n8n
