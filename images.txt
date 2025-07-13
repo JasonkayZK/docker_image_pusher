@@ -1,1 +1,1 @@
-binwiederhier/ntfy:v2.12
+heartexlabs/label-studio:1.20.0
