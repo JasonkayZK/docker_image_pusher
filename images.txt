@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/available-middleware/nfs-subdir-external-provisioner:v4.0.2
+langgenius/dify-plugin-daemon:0.3.1-local
