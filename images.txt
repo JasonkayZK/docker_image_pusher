@@ -1,1 +1,1 @@
-jupyter/base-notebook:x86_64-python-3.11.6
+codercom/code-server:4.104.3-bookworm
