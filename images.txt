@@ -1,1 +1,1 @@
-codercom/code-server:4.104.3-bookworm
+timescale/timescaledb:latest-pg16
