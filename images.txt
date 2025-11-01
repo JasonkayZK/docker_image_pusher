@@ -1,1 +1,1 @@
-timescale/timescaledb:latest-pg16
+emqx/emqx-enterprise:latest
