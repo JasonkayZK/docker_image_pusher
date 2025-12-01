@@ -1,1 +1,2 @@
-emqx/emqx-enterprise:latest
+blackholll/loonflow-ui:v3.0.1
+blackholll/loonflow-backend:v3.0.1
