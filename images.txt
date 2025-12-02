@@ -1,2 +1,2 @@
-blackholll/loonflow-ui:v3.0.1
-blackholll/loonflow-backend:v3.0.1
+blackholll/loonflow-web:r2.0.20
+blackholll/loonflow-task:r2.0.20
