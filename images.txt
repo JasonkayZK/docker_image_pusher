@@ -1,2 +1,6 @@
-blackholll/loonflow-web:r2.0.20
-blackholll/loonflow-task:r2.0.20
+langgenius/dify-api:1.10.1
+langgenius/dify-web:1.10.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.4.1-local
+semitechnologies/weaviate:1.27.0
+langgenius/qdrant:v1.8.3
