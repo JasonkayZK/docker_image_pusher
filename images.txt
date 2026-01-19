@@ -1,1 +1,2 @@
-mongo:5.0.32
+14790897/frontend-handwriting:latest
+14790897/backend-handwriting:latest
