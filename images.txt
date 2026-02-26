@@ -1,1 +1,1 @@
-dockur/windows:5.14
+ghcr.io/dockur/windows:5.14
