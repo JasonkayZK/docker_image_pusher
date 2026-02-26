@@ -1,2 +1,1 @@
-14790897/frontend-handwriting:latest
-14790897/backend-handwriting:latest
+dockur/windows:5.14
