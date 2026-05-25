@@ -1,1 +1,1 @@
-ghcr.io/dockur/windows:5.14
+traefik:v3.6
