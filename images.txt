@@ -1,1 +1,1 @@
-thisisarpanghosh/garmin-fetch-data:v0.4.0
+drakkan/sftpgo:v2.7.5
